@@ -1,6 +1,9 @@
 ### Transfer Learning
 ![transfer learning](transfer-learning.jpg)
 
+---
+---
+---
 
 ### AlexNet: Feature Map Size Calculation
 
